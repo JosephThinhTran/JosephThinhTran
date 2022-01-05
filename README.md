@@ -2,7 +2,9 @@
 - 👀 I’m interested in 
   - AI/ML, especially in Deep Reinforcement Learning (DRL).
   - Embedded systems
-- 🌱 I’m currently learning to implement wellknown DRL algorithms, and applying them to my research projects.
+- 🌱 What I am doing now:
+  - Learn and Implement wellknown DRL algorithms, and applying them to my research projects.
+  - Develop embedded systems using ARM-based MCUs.
 - 📫 How to reach me: https://github.com/JosephThinhTran
 
 <!---
