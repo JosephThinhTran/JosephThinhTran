@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @JosephThinhTran
+- 👋 Hi, I’m (Joseph) Thinh Tran
 - 👀 I’m interested in 
     - Embedded systems
     - AI/ML, especially in Deep Reinforcement Learning (DRL).
 - 🌱 What I am doing now:
   - Full-time Embedded System Developer at I-SYST Inc.
     - Develop embedded systems using ARM-based MCUs.
-  - Learn and Implement wellknown DRL algorithms, and applying them to my research projects.
+  - Learn and Implement wellknown DRL algorithms, and applying them to my research projects
+    - DRL-based Service Function Chain Embedding
   
 - 📫 How to reach me: https://github.com/JosephThinhTran
 
