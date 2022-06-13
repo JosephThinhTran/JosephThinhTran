@@ -3,7 +3,7 @@
     - Embedded systems & IoT applications
     - AI/ML, especially in Deep Reinforcement Learning (DRL)
 - 🌱 What I am doing now:
-  - Full-time Embedded System Developer at I-SYST Inc.
+  - Full-time Embedded System Developer at I-SYST Inc., https://www.i-syst.com/
     - Develop embedded systems and IoT applications using ARM-based MCUs.
   - Learn and Implement wellknown DRL algorithms, and applying them to my research projects
     - Develop DRL-based Service Function Chain Embedding
