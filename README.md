@@ -2,14 +2,15 @@
 - 👀 I’m interested in 
     - Embedded systems & IoT applications
     - AI/ML, especially in Deep Reinforcement Learning (DRL)
-- 🌱 What I am doing now:
-  - Full-time Embedded System Developer at I-SYST Inc., https://www.i-syst.com/
-    - Develop embedded systems and IoT applications using ARM-based MCUs.
-  - Self learning:
+- 🔧 What I am doing now:
+    - Full-time Embedded System Developer at I-SYST Inc., https://www.i-syst.com/
+    - Develop Bluetooth-enabled embedded systems and IoT applications using ARM-based microcontrollers.
+- 🏠 Self learning at home:
     - FreeRTOS-based programming with embedded boards such as ESP32
     - Embedded Linux using Raspberry Pi board (Buildroot, Yocto)
-  - Learn and Implement wellknown DRL algorithms, and applying them to my research projects
-    - Develop DRL-based Service Function Chain Embedding
+- 🌱 Previous work:
+    - Learn and Implement wellknown DRL algorithms, and applying them to my research projects
+        - Develop DRL-based Service Function Chain Embedding
   
 [//]: <> (- 📫 How to reach me: https://github.com/JosephThinhTran)
 
