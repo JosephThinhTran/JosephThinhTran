@@ -4,7 +4,7 @@
     - AI/ML, especially in Deep Reinforcement Learning (DRL)
 - 🔧 What I am doing now:
     - Full-time Embedded System Developer at I-SYST Inc., https://www.i-syst.com/
-    - Develop Bluetooth-enabled embedded systems and IoT applications using ARM-based microcontrollers.
+    - Develop Bluetooth-enabled embedded systems and IoT applications using ARM-based microcontrollers (Nordic nRF52 MCU series).
 - 🏠 Self learning at home:
     - FreeRTOS-based programming with embedded boards such as ESP32
     - Embedded Linux using Raspberry Pi board (Buildroot, Yocto)
