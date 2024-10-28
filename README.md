@@ -8,7 +8,7 @@
   - Learn and Implement wellknown DRL algorithms, and applying them to my research projects
     - Develop DRL-based Service Function Chain Embedding
   
-- 📫 How to reach me: https://github.com/JosephThinhTran
+[//]: <> (- 📫 How to reach me: https://github.com/JosephThinhTran)
 
 <!---
 JosephThinhTran/JosephThinhTran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
